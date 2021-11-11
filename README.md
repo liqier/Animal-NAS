@@ -1,7 +1,7 @@
 # Animal-NAS
 PyTorch Source code for "[Spatial Temporal Graph Convolutional Networks for four-legged wildlife Skeleton-Based Action Recognition with Neural Architecture Search]"
 
-##Requirements
+## Requirements
 - python packages
   -pytorch = 1.2.0
   -tqdm
@@ -9,10 +9,10 @@ PyTorch Source code for "[Spatial Temporal Graph Convolutional Networks for four
   -scikit-learn
   -seaborn
   
-##Animal-Skeleton
+## Animal-Skeleton
 -Details from [Animal-Skeleton](https://pan.baidu.com/s/1GoyO3X3r46nFps3kmFSl2Q )
 
-##Model searching
+## Model searching
 '''
 python train_search.py
 '''
