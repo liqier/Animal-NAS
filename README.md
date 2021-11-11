@@ -10,7 +10,7 @@ PyTorch Source code for "[Spatial Temporal Graph Convolutional Networks for four
   -seaborn
   
 ## Animal-Skeleton
--Details from [Animal-Skeleton](https://pan.baidu.com/s/1GoyO3X3r46nFps3kmFSl2Q )
+-Details from [Animal-Skeleton](https://pan.baidu.com/s/1GoyO3X3r46nFps3kmFSl2Q ),code:xja2
 
 ## Model searching
 '''
