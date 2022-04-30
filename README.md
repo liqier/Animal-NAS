@@ -20,7 +20,7 @@ we randomly divide the training samples into 10 folds, where 9 folds are used fo
 python train_search.py
 '''
 
-##Citation
+## Citation
 If you use this code or dataset, please cite this article as: Yaqin Zhao, Liqi Feng, Jiaxi Tang, Wenxuan Zhao, Zhipeng Ding, Ao Li and Zhaoxiang Zheng, Automatically recognizing four- legged animal behaviors to enhance welfare using spatial temporal graph convolutional networks, Applied Animal Behaviour Science, (2021) doi:https://doi.org/10.1016/j.applanim.2022.105594
 
 ## License
